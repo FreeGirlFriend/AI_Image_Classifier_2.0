@@ -1,6 +1,6 @@
 # AI 图片关键词分类器
 
-基于 CLIP 和 SigLIP 模型的零样本图片分类工具，自动按关键词整理图片。
+CLIP和SigLIP 模型零样本/自定样本的本地CUDA图片分类工具，按关键词分类/手动训练分类器，Powered by Claude&Python
 
 ## 功能
 
