@@ -1,6 +1,6 @@
-# AI 图片关键词分类器2.0
+# AI 图片关键词分类器4.1
 
-CLIP和SigLIP 模型零样本/自定样本的本地CUDA图片分类工具，按关键词分类/手动训练分类器，Powered by Claude&Python
+CLIP和SigLIP 模型零样本/自定样本的本地CUDA图片分类工具，按关键词分类/手动训练分类器，Powered by Claude Code & Python
 
 ## 功能
 
